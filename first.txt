@@ -6,3 +6,4 @@ git rm
 git status
 git log [-p][-n 3][--oneline]
 git diff
+git push origin master
