@@ -1,2 +1,4 @@
 Gitの練習です。
-基本的なワークフローを学びます。追加です。更に追加です。abcdefg
+gitmの手順
+git add
+git commit
