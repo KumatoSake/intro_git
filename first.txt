@@ -1,7 +1,7 @@
 Gitの練習です。
 gitの手順
-git add
-git commit
+git add [file name][.]
+git commit [-v]
 git rm
 git status
 git log [-p][-n 3][--oneline]
