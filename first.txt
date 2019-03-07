@@ -7,3 +7,5 @@ git status
 git log [-p][-n 3][--oneline]
 git diff
 git push origin master
+https://git-scm.com/book/en/v2
+https://www.atlassian.com/ja/git/tutorial/git-basics
